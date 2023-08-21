@@ -1,0 +1,14 @@
+.hero{
+    background-image: url(./img/Rectangle\ 48.png);
+    padding: 80px 319px 162px 322px;
+}
+.hero-text{
+    width: 799px;
+height: 151.111px;
+}
+.btn-orange{
+    background-color: orangered;
+}
+.btn{
+    padding:16px 70px;
+}
